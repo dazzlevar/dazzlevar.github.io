@@ -2,7 +2,7 @@ body {
   background-color: #000;
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 120vh;
   /* Asegura que el cuerpo ocupe toda la altura de la ventana */
   display: flex;
   align-items: center;
@@ -12,7 +12,7 @@ body {
 }
 
 .flower {
-  height: 200px;
+  height: 100px;
   width: 200px;
   margin: 20px auto;
 
@@ -40,17 +40,17 @@ body {
 }
 
 .text-above {
-  top: -60px;
+  top: -100px;
   /* Ajusta la posición vertical del texto arriba de la flor */
 }
 
 .text-below {
-  bottom: -60px;
+  bottom: -100px;
   /* Ajusta la posición vertical del texto debajo de la flor */
 }
 
 .text-below2 {
-  bottom: -150px;
+  bottom: -220px;
   /* Ajusta la posición vertical del texto debajo de la flor */
 }
 
